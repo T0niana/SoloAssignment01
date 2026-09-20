@@ -8,7 +8,7 @@ Eine Todo-App mit Vue 3, Vite und TypeScript.
 
 
 ```bash
-git clone <URL-DES-GITHUB-REPOSITORIES>
+git clone <https://github.com/T0niana/SoloAssignment01.git>
 ```
 
 Terminal für Projektordner öffnen
